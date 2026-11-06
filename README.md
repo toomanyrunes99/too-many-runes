@@ -1,4 +1,4 @@
-<p align="center"><img src="images/too-many-runes.png" width="160" alt="Too Many Runes logo"></p>
+
 
 # Too Many Runes
 

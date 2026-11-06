@@ -1,21 +1,35 @@
-# Too Many Recipes
+# Too Many Runes
 
-A searchable item and recipe index for RuneScape 3, inspired by the JEI and NEI mods from Minecraft. Built with Jagex's Lua plugin API.
+Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the popular JEI/NEI/TMI mods from Minecraft. Look up any item and see how it's made, what it's used for and where you can get it.
 
-## What it does
+**Version:** 3.0.64
+**Needs:** the PrettyUI plugin
 
-Too Many Recipes opens its own window with a search box. Type part of an item's name and you get a clickable list of matching items, with their icons. Click an item to see how it is made and what it is used for.
+## Features
 
-The plugin reads its data from the game itself wherever it can, instead of relying on hand-copied lists, so it keeps working as new items are added. A small number of recipes that the game data does not cover have been added by hand and are marked as player-added in the code.
+* One window with an item list on the left and the item's details on the right
+* **Recipe** tab: what an item is made from, where, and the level you need
+* **Uses** tab: everything an item is used to make
+* **Source** tab: where you can mine, catch, cut or dig it up
+* Click a material to jump to it, or a station or skill picture to see everything made there
+* Favorites and a Recently viewed panel
+* Right-click an item in your backpack, bank or on the ground and pick Recipe, Uses or Source to open it in the plugin
+* Settings for hidden items, mouse wheel direction, hover colour and more
 
-## Search tips
+## Searching
 
-Search by skill with @, for example @smithing. Use smithing 60 for an exact level, or <60 and >60 for at-or-below and at-or-above that level.
+* A name: `iron bar`
+* An item number: `#1205`
+* A skill: `@smithing`, with a level if you like: `@smithing >60`, `@smithing <60` or `@smithing 60-70`
+* A station: `@furnace`, `@anvil`, `@range`, `@altar`
+* A kind of item: `@food`, `@potion`, `@weapon`, `@armour`, `@feet`, `@bow`
+* Mix them: `dragon @smithing` or `sword >60`
+* A place things are gathered from: `@castra debris`, `@copper rock`
 
-## Status
+## How it works
 
-In development, version 2.1. Recipe coverage started with the Necromancy ritual site and is growing toward every craftable item in the game.
+Most of the data is read from the game itself, plus a few things checked by hand. After you log in, the plugin needs about a minute to read the game's data, so some recipes and uses only show up once it's done.
 
-## Installing
+## Notes
 
-Copy the plugin folder into your RuneScape plugin folder and load it from the in-game plugin console. The plugin prints its version number in the console when it starts.
+This plugin was made with the help of AI. If something looks wrong or is missing, please report it to Toomanyrunes99@gmail.com.

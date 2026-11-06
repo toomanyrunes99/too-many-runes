@@ -38,3 +38,14 @@ Most of the data is read from the game itself, plus a few things checked by hand
 ## Notes
 
 This plugin was made with the help of AI. If something looks wrong or is missing, please report it to Toomanyrunes99@gmail.com.
+
+Download it. Go to https://github.com/toomanyrunes99/too-many-runes, click Too Many Runes 3.0.64.zip, then click the download button (the arrow pointing down, on the right).
+Unzip it. Find the zip in your Downloads folder, right-click it and choose Extract All, then click Extract. Inside you’ll see a folder called too-many-runes.
+Open the plugins folder. Click the address bar at the top of any File Explorer window, paste this and press Enter:
+C:\ProgramData\Jagex\RuneScape-BETA\dev_plugins
+If there’s no dev_plugins folder, make one with that exact name inside RuneScape-BETA.
+Copy it in. Drag the too-many-runes folder into dev_plugins. The files must sit directly inside it, like dev_plugins\too-many-runes\main.lua, not one folder deeper.
+Get PrettyUI. In the game’s Plugin Hub, install the PrettyUI plugin. Too Many Runes needs it to work.
+Turn it on. Start the RuneScape Beta and log in. Open the console and type:
+prl too-many-runes
+Wait a minute. The plugin reads the game’s data after you log in, so give it about a minute before all the recipes show up.

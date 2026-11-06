@@ -1,4 +1,3 @@
-<p align="center"><img src="images/Too%20Many%20Runes.png" width="160" alt="Too Many Runes logo"></p>
 
 # Too Many Runes
 
@@ -7,7 +6,7 @@ Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the 
 **Version:** 3.0.64<br>
 **Needs:** the PrettyUI plugin
 
-<p align="center"><img src="images/Too%20Many%20Runes%20demo%20compressed.gif" alt="Too Many Runes demo"></p>
+<p align="center"><img src="images/Recording%202026-11-06%20181034.gif" alt="Searching in Too Many Runes"></p>
 
 ## Features
 
@@ -30,7 +29,7 @@ Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the 
 * Mix them: `dragon @smithing` or `sword >60`
 * A place things are gathered from: `@castra debris`, `@copper rock`
 
-<p align="center"><img src="images/Recording%202026-11-06%20181034.gif" alt="Searching in Too Many Runes"></p>
+<p align="center"><img src="images/Too%20Many%20Runes%20demo%20compressed.gif" alt="Too Many Runes demo"></p>
 
 ## How it works
 

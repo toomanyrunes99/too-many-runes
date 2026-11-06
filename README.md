@@ -1,3 +1,5 @@
+<p align="center"><img src="images/too-many-runes.png" width="160" alt="Too Many Runes logo"></p>
+
 # Too Many Runes
 
 Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the popular JEI/NEI/TMI mods from Minecraft. Look up any item and see how it's made, what it's used for and where you can get it.
@@ -33,3 +35,8 @@ Most of the data is read from the game itself, plus a few things checked by hand
 ## Notes
 
 This plugin was made with the help of AI. If something looks wrong or is missing, please report it to Toomanyrunes99@gmail.com.
+## Screenshots
+
+![Browsing the item list](images/item-list.gif)
+
+![Searching and viewing a recipe](images/searching.gif)

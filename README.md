@@ -52,6 +52,8 @@ This plugin was made with the help of AI. If something looks wrong or is missing
 5. **Get PrettyUI.** Install the **PrettyUI** plugin from the in-game Plugin Hub. Too Many Runes needs it to work.
 6. **Turn it on.** Start the RuneScape Beta and log in. **[Press alt + ~ to open the console]**, then type:
    ```
+   Prf (Plugin Refresh)
+   Followed by
    prl too-many-runes
    ```
    **[Check: is this the right command for a first-time load?]**

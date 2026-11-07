@@ -53,7 +53,7 @@ This plugin was made with the help of AI. If something looks wrong or is missing
 6. **Turn it on.** Start the RuneScape Beta and log in. **[Press alt + ~ to open the console]**, then type:
 Plugin Refresh command:
    ```
-   Prf (Plugin Refresh)
+   Prf
    ```
    
    Followed by the plugin reload command:

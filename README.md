@@ -50,7 +50,7 @@ This plugin was made with the help of AI. If something looks wrong or is missing
    If there's no `dev_plugins` folder, make one with that exact name inside `RuneScape-BETA`.
 4. **Copy it in.** Drag the **too-many-runes** folder into `dev_plugins`. It should look like `dev_plugins\too-many-runes\main.lua`, not one folder deeper.
 5. **Get PrettyUI.** Install the **PrettyUI** plugin from the in-game Plugin Hub. Too Many Runes needs it to work.
-6. **Turn it on.** Start the RuneScape Beta and log in. **[Press alt + ~_ to open the console]**, then type:
+6. **Turn it on.** Start the RuneScape Beta and log in. **[Press alt + ~ to open the console]**, then type:
    ```
    prl too-many-runes
    ```

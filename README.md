@@ -60,7 +60,6 @@ Plugin Refresh command:
    ```
    prl too-many-runes
    ```
-   **[Check: is this the right command for a first-time load?]**
 7. **Wait a minute.** The plugin reads the game's data after you log in, so give it about a minute before every recipe shows up.
 
 ### Updating

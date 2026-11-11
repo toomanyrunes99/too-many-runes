@@ -3,7 +3,7 @@
 
 Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the popular JEI/NEI/TMI mods from Minecraft. Look up any item and see how it's made, what it's used for and where you can get it.
 
-**Version:** 3.1.50<br>
+**Version:** 3.2.03<br>
 **Needs:** the PrettyUI plugin
 
 <p align="center"><img src="images/Recording%202026-11-06%20181034.gif" alt="Searching in Too Many Runes"></p>
@@ -15,6 +15,7 @@ Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the 
 * **Uses** tab: everything an item is used to make
 * **Source** tab: where you can mine, catch, cut, dig up or buy it, and which bosses and clue scrolls give it
 * Click a material to jump to it, or a station or skill picture to see everything made there
+* The forms of an item (doses, charges, augmented, dyed, upgrades + 1 to + 5 ...) stack under one picture: click it to unfold them
 * Favorites and a Recently viewed panel
 * Right-click an item in your backpack, bank or on the ground and pick Recipe, Uses or Source to open it in the plugin
 * Settings for hidden items, mouse wheel direction, hover colour and more
@@ -31,6 +32,9 @@ Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the 
 * Mix them: `dragon @smithing` or `sword >60`
 * A place things are gathered from: `@castra debris`, `@copper rock`, `@rock`, `@tree`, `@wisp`, `@patch`
 * Drops and rewards: `@araxxi`, `@boss`, `@slayer morytania`, `@medium clue`, `@shop`
+* Made in the backpack: `@backpack`; quest items: `@quest`; compost: `@compostable`
+* More kinds: `@ore`, `@bar`, `@log`, `@fish`, `@herb`, `@seed`, `@gem`, `@rune`
+* Narrow any search: `@f2p`, `@members`, `@ge`, `@untradeable`, or a right-click option like `@teleport`
 
 <p align="center"><img src="images/Too%20Many%20Runes%20demo%20compressed.gif" alt="Too Many Runes demo"></p>
 
@@ -38,13 +42,14 @@ Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the 
 
 Most of the data is read from the game itself, plus a few things checked by hand. After you log in, the plugin needs about a minute to read the game's data, so some recipes and uses only show up once it's done.
 
-## What's new in 3.1.50
+## What's new in 3.2.03
 
-* Many more recipes and sources: crafting benches named by the game, reward shops, boss and collection log drops, Treasure Trail rewards, potion flasks, augmented items, farming patches, stone and wood spirits, geodes and Divination energies
-* New search words: `@rock`, `@tree`, `@wisp`, `@patch`, `@energy rift`, `@boss` and more
-* A new look: tabs like the game's own, counts on the tabs, a hover colour and outline, and a see-through window that follows the game's setting
-* Minimize to a rune icon
-* Smoother: almost no work while the window is closed or minimized, and start-up slows itself down when the game's frame rate drops
+* Item stacks: the forms of an item share one picture; click it to unfold them
+* "Made in: Backpack" on the Recipe tab, compost bins, quest items and many new search words
+* Pictures for more crafting stations
+* Less clutter, no lag while typing, and about a quarter of the memory it used before
+
+See [CHANGELOG.md](CHANGELOG.md) for the full list.
 
 ## Feedback and collaboration
 

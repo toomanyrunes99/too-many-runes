@@ -6,7 +6,7 @@ Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the 
 **Version:** 3.2.03<br>
 **Needs:** the PrettyUI plugin
 
-<p align="center"><img src="images/Recording%202026-11-06%20181034.gif" alt="Searching in Too Many Runes"></p>
+<p align="center"><img src="images/click-through-materials.gif" alt="Clicking through a recipe's materials in Too Many Runes"></p>
 
 ## Features
 
@@ -36,7 +36,33 @@ Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the 
 * More kinds: `@ore`, `@bar`, `@log`, `@fish`, `@herb`, `@seed`, `@gem`, `@rune`
 * Narrow any search: `@f2p`, `@members`, `@ge`, `@untradeable`, or a right-click option like `@teleport`
 
-<p align="center"><img src="images/Too%20Many%20Runes%20demo%20compressed.gif" alt="Too Many Runes demo"></p>
+<p align="center"><img src="images/search-suggestions.gif" alt="Search suggestions while typing"></p>
+
+## See it in action
+
+**Item stacks:** the forms of an item share one picture. Click it to unfold them.
+
+<p align="center"><img src="images/item-stacks.gif" alt="Unfolding an item stack"></p>
+
+**Recipe, Uses and Source:** every tab, and clicking through to where things come from.
+
+<p align="center"><img src="images/recipe-uses-source.gif" alt="The Recipe, Uses and Source tabs"></p>
+
+**Crafting stations:** click a station to see everything made there.
+
+<p align="center"><img src="images/crafting-stations.gif" alt="Forge and anvil recipes"></p>
+
+**Sources and places:** search a gathering spot or a shop.
+
+<p align="center"><img src="images/sources-and-place-searches.gif" alt="Searching a herb patch"></p>
+
+**Recently viewed:** jump back to anything you looked at.
+
+<p align="center"><img src="images/recently-viewed.gif" alt="The Recently viewed panel"></p>
+
+**Station searches:** `@altar` and the Eternal magic stages.
+
+<p align="center"><img src="images/altar-search.gif" alt="Searching @altar"></p>
 
 ## How it works
 

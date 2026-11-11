@@ -1,0 +1,10 @@
+{
+    "name": "Too Many Runes",
+    "version": "3.2.03",
+    "contactEmailAddress": "Toomanyrunes99@gmail.com",
+    "hasRibbonIcon": true,
+    "hasSettingsIcon": true,
+    "requiredDependencies": { "prettyui": 6398181 },
+    "requiredPermissions": [],
+    "optionalPermissions": []
+}

@@ -1,5 +1,16 @@
 # Too Many Runes - Changelog
 
+## 3.2.62
+
+- **New tabs:** every item is sorted into groups (Gear, Food, Gathering, Artisan, Support, Quests, Misc) with smaller groups inside.
+- **Favorites tab:** your starred items, right next to All.
+- **Minigames group:** with a setting to hide minigame items.
+- **Wiki recipes:** thousands of items the game has no recipe for now show one from the RuneScape Wiki.
+- **Older quest items:** shown with their quest, and searchable with `@quest`.
+- **Smarter stacks:** urns, salvage, armour sets and item forms stack together.
+- **Smoother loading:** no more freeze while the plugin starts up.
+- **Lots of fixes:** hundreds of items moved to the right group, plus menu and loading glitches fixed.
+
 ## 3.2.03
 
 - **Item stacks:** the different forms of an item now share one picture with a number on it. Click it to unfold the rest. This covers doses and charges, augmented, dyed and broken versions, upgrades (+ 1 to + 5, Mk. 1 to Mk. 5) and stages, such as the Eternal magic orbs.

@@ -6,7 +6,7 @@ Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the 
 **Version:** 3.3.43<br>
 **Needs:** the PrettyUI plugin
 
-<p align="center"><img src="images/tour.gif" alt="A quick tour of Too Many Runes"></p>
+<p align="center"><img src="images/too-many-runes-tour.gif" alt="A quick tour of Too Many Runes"></p>
 
 ## Features
 
@@ -76,15 +76,15 @@ Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the 
 
 **Item stacks:** the forms of an item share one picture. Click it to unfold them.
 
-<p align="center"><img src="images/item-stacks.gif" alt="Unfolding an item stack"></p>
+<p align="center"><img src="images/item-stacks-unfold.gif" alt="Unfolding an item stack"></p>
 
 **Recently viewed:** jump back to anything you looked at.
 
-<p align="center"><img src="images/recently-viewed.gif" alt="The Recently viewed panel"></p>
+<p align="center"><img src="images/recently-viewed-panel.gif" alt="The Recently viewed panel"></p>
 
-**Station searches:** `@altar` and the Eternal magic stages.
+**Station searches:** `@altar`, `@furnace` and `@anvil`.
 
-<p align="center"><img src="images/altar-search.gif" alt="Searching @altar"></p>
+<p align="center"><img src="images/station-searches.gif" alt="Searching @altar, @furnace and @anvil"></p>
 
 ## How it works
 

@@ -3,7 +3,7 @@
 
 Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the popular JEI/NEI/TMI mods from Minecraft. Look up any item and see how it's made, what it's used for and where you can get it.
 
-**Version:** 3.2.62<br>
+**Version:** 3.3.43<br>
 **Needs:** the PrettyUI plugin
 
 <p align="center"><img src="images/click-through-materials.gif" alt="Clicking through a recipe's materials in Too Many Runes"></p>
@@ -17,11 +17,12 @@ Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the 
 * **Source** tab: where you can mine, catch, cut, dig up or buy it, and which bosses and clue scrolls give it
 * Click a material to jump to it, or a station or skill picture to see everything made there
 * The forms of an item (doses, charges, augmented, dyed, upgrades + 1 to + 5 ...) stack under one picture: click it to unfold them
+* Hover any item for a box just like the game's, with its stats compared to what you're wearing
 * A Favorites tab and a Recently viewed panel
 * Right-click an item in your backpack, bank or on the ground and pick Recipe, Uses or Source to open it in the plugin
-* Settings for hidden items, mouse wheel direction, hover colour and more
+* Settings for hidden items, mouse wheel direction, loading speed, hover color (with a color picker) and more
 * A junk filter that hides clutter like MTX, loyalty and event items
-* Minimize the window to a small rune icon you can drag anywhere
+* Minimize the window to a small rune icon you can drag anywhere; the window always fits your screen
 
 ## Searching
 
@@ -69,13 +70,14 @@ Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the 
 
 Most of the data is read from the game itself, plus a few things checked by hand. Where the game has no recipe for an item, the plugin shows the RuneScape Wiki's, marked with the wiki's button. After you log in, the plugin needs about a minute to read the game's data, so some recipes and uses only show up once it's done.
 
-## What's new in 3.2.62
+## What's new in 3.3.43
 
-* New tabs that sort every item into groups, and a Favorites tab next to All
-* A Minigames group, with a setting to hide minigame items
-* Recipes from the RuneScape Wiki for thousands of items the game has no recipe for
-* Older quest items shown with their quest, and searchable with `@quest`
-* Smarter stacks, smoother loading and lots of fixes
+* Hover boxes that look like the game's, with stats compared to your worn gear
+* More hover info: potions, food, pickaxes, summoning pouches and scrolls, relics and more
+* Opening an item from Uses, Recipe or Back jumps the item list to it
+* Hidden items say which setting hides them
+* A clearer Settings page with tabs and a color picker
+* A new Turbo loading speed, and the window now fits smaller screens
 
 See [CHANGELOG.md](CHANGELOG.md) for the full list.
 
@@ -93,7 +95,7 @@ Some information comes from the RuneScape Wiki (runescape.wiki), used under CC B
 
 ## Installing (RuneScape Beta)
 
-1. **Download it.** Click **Too Many Runes 3.2.62.zip** at the top of this page, then click the **download button** (the arrow pointing down, on the right).
+1. **Download it.** Click **Too Many Runes 3.3.43.zip** at the top of this page, then click the **download button** (the arrow pointing down, on the right).
 2. **Unzip it.** Find the zip in your Downloads folder, right-click it, choose **Extract All**, then click **Extract**. Inside you'll find a folder called **too-many-runes**.
 3. **Open the plugins folder.** Click the address bar at the top of any File Explorer window, paste this and press Enter:
    ```

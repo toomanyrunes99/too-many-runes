@@ -1,5 +1,21 @@
 # Too Many Runes - Changelog
 
+## 3.3.43
+
+- **Hover boxes like the game's:** hovering an item shows a box with the game's own border, size, text and colors. Stats are compared with what you're wearing (green better, red worse).
+- **More in the hover box:** potions, food, pickaxes, summoning pouches and scrolls, relics, currencies, Archaeology mysteries and farm animals.
+- **The item list follows you:** opening an item from Uses, Recipe, the Back arrow, Recently viewed or a right-click menu jumps the list to it (its stack unfolds if needed).
+- **"Hidden by" line:** an item kept out of the list by a Settings switch says which one.
+- **New Settings page:** four tabs, a highlight on the row you're on, green On / dim Off, and a color picker with a live preview for your own hover color.
+- **Loading speeds:** a new Turbo speed puts each page up in one go. Smooth stays the default.
+- **Stays on your page** while the plugin is still loading.
+- **Fits your screen:** the window shrinks and moves back on screen when the game window gets smaller or moves to a smaller monitor.
+- **Recently viewed** button has its own hover box.
+- **Player-owned farm:** the mushes say how they're made and that they go in the trough; the trough's own copies of foods are hidden.
+- **Tidier tabs:** Crucible and Runespan siphoning items moved to Minigames, plus a few single items moved to the right skill.
+- **More junk hidden:** bank boosters, returner packs, founder packs and other shop placeholders.
+- **Fixes:** button and tab colors no longer turn white when hovered, long names and lines wrap instead of being cut off, and many smaller fixes.
+
 ## 3.2.62
 
 - **New tabs:** every item is sorted into groups (Gear, Food, Gathering, Artisan, Support, Quests, Misc) with smaller groups inside.

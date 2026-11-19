@@ -6,7 +6,7 @@ Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the 
 **Version:** 3.3.43<br>
 **Needs:** the PrettyUI plugin
 
-<p align="center"><img src="images/click-through-materials.gif" alt="Clicking through a recipe's materials in Too Many Runes"></p>
+<p align="center"><img src="images/supercut.gif" alt="A quick tour of Too Many Runes"></p>
 
 ## Features
 
@@ -42,21 +42,41 @@ Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the 
 
 ## See it in action
 
-**Item stacks:** the forms of an item share one picture. Click it to unfold them.
+**Hover boxes:** hover any item for a box just like the game's, with its stats compared to what you're wearing.
 
-<p align="center"><img src="images/item-stacks.gif" alt="Unfolding an item stack"></p>
+<p align="center"><img src="images/hover-boxes.gif" alt="Hover boxes over weapons"></p>
 
-**Recipe, Uses and Source:** every tab, and clicking through to where things come from.
+**Click through materials:** click a material to jump to it, all the way down to the basics.
+
+<p align="center"><img src="images/click-through-materials.gif" alt="Clicking through a recipe's materials"></p>
+
+**Recipe, Uses and Source:** what an item is made from, what it makes and where it comes from.
 
 <p align="center"><img src="images/recipe-uses-source.gif" alt="The Recipe, Uses and Source tabs"></p>
 
-**Crafting stations:** click a station to see everything made there.
+**Tabs:** every item sorted into groups, each with smaller groups inside.
 
-<p align="center"><img src="images/crafting-stations.gif" alt="Forge and anvil recipes"></p>
+<p align="center"><img src="images/category-tabs.gif" alt="Browsing the Gear, Food, Gathering and Artisan tabs"></p>
 
-**Sources and places:** search a gathering spot or a shop.
+**Skill and level searches:** `@ranged 70-99`, then an item's wiki info and quest steps.
 
-<p align="center"><img src="images/sources-and-place-searches.gif" alt="Searching a herb patch"></p>
+<p align="center"><img src="images/level-searches.gif" alt="Searching @ranged 70-99"></p>
+
+**Sources and places:** where quest items come from, and searches like `@rock` and `@backpack`.
+
+<p align="center"><img src="images/sources-and-place-searches.gif" alt="Quest item sources and place searches"></p>
+
+**Stations and components:** `@forge`, `@invention` and the Invention components.
+
+<p align="center"><img src="images/crafting-stations.gif" alt="Searching @forge and @invention"></p>
+
+**Favorites:** your starred items in their own tab.
+
+<p align="center"><img src="images/favorites.gif" alt="The Favorites tab"></p>
+
+**Item stacks:** the forms of an item share one picture. Click it to unfold them.
+
+<p align="center"><img src="images/item-stacks.gif" alt="Unfolding an item stack"></p>
 
 **Recently viewed:** jump back to anything you looked at.
 

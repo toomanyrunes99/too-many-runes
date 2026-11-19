@@ -6,7 +6,7 @@ Too Many Runes is an item index and recipe viewer for RuneScape 3, based on the 
 **Version:** 3.3.43<br>
 **Needs:** the PrettyUI plugin
 
-<p align="center"><img src="images/supercut.gif" alt="A quick tour of Too Many Runes"></p>
+<p align="center"><img src="images/tour.gif" alt="A quick tour of Too Many Runes"></p>
 
 ## Features
 
